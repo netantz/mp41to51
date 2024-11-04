@@ -2,6 +2,8 @@
 
 # !!! Important: Use at your own risk !!!
 
+This does not work for MP41 Refurbished mode running firmware: MP41.0081.B08
+
 Instructions for manually updating Mac Pro 4,1 firmware to Mac Pro 5,1 firmware.
 
 Tested on 2 units of MP4,1, single processor model with FW: MP41.0081.B07 running MacOS El Capitan 10.11
